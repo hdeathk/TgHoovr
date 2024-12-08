@@ -42,7 +42,7 @@ Step 4: Configure the Script
 
 Run the script for the first time:
 
-        python TgHoovr.py
+    python TgHoovr.py
 
 When prompted, enter:
 
