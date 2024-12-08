@@ -10,7 +10,7 @@ Navigate to the project folder:
 
     cd TgHoovr
 
-##**Step 2: Required Libraries**
+**Step 2: Required Libraries**
 Install Required Libraries Use the requirements.txt file to install the dependencies:
 
     pip install -r requirements.txt
