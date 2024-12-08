@@ -22,6 +22,7 @@ Navigate to the project folder:
     cd TgHoovr
 
 
+
 Step 2: Install Required Libraries
 
 Install all necessary libraries using the requirements.txt file:
