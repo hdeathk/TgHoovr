@@ -2,7 +2,7 @@ This script is a Telegram Video Downloader that automates the process of downloa
 
 Ideal for managing and archiving videos from Telegram channels efficiently! This guide will walk you through the process from account setup to running the script.
 
-Step 1: Download the Script
+**Step 1: Download the Script**
 
 git clone https://github.com/hdeathk/TgHoovr
 
