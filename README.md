@@ -50,6 +50,7 @@ Your API ID
 Your API Hash
 
 The script will save this information in a config.json file for future use.
+
 Step 5: Download Telegram Videos
 
 Run the script and choose Option 1 from the menu.
