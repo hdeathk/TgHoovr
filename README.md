@@ -8,6 +8,7 @@ Ideal for managing and archiving videos from Telegram channels efficiently!
 This guide will walk you through the process from account setup to running the script.
 
 
+
 Step 1: Download the Script
 
     git clone https://github.com/hdeathk/TgHoovr
@@ -16,12 +17,16 @@ Navigate to the project folder:
 
     cd TgHoovr
 
+
+
 Step 2: Required Libraries
 
 Install Required Libraries
 Use the requirements.txt file to install the dependencies:
 
     pip install -r requirements.txt
+
+
 
 Step 3: Create a Telegram API Account
 
@@ -36,6 +41,8 @@ Create a New Application
         Fill in the required details (e.g., app name, description).
         Save the API ID and API Hash generated for your application.
 
+
+
 Step 4: Configure the Script
 
 Run the script:
@@ -47,6 +54,8 @@ Enter the following when prompted:
     Your API Hash.
 
 The script will save your configuration in a config.json file for future use.
+
+
 
 Step 5: Download Telegram Videos
 
@@ -61,6 +70,8 @@ Example formats:
 The script will:
         Fetch videos from the channel.
         Download them to a folder named after the channel.
+
+
 
 Step 6: Manage Downloads
 
