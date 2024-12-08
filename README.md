@@ -26,7 +26,7 @@ Use the requirements.txt file to install the dependencies:
 Step 3: Create a Telegram API Account
 
 Go to the Telegram API Tools page:
-    https://my.telegram.org/auth
+https://my.telegram.org/auth
 
 Log in
     Enter your phone number and the verification code sent to your Telegram app.
