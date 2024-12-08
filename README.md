@@ -7,12 +7,9 @@ Step 1: Download the Script
 
 Navigate to the project folder:
 
-    cd your-repo-name
+    cd TgHoovr
 
-Step 2: Install Python and Required Libraries
-
-    Install Python
-    Download and install Python 3.8 or higher from the official Python website.
+Step 2: Required Libraries
 
     Install Required Libraries
     Use the requirements.txt file to install the dependencies:
@@ -36,7 +33,7 @@ Step 4: Configure the Script
 
     Run the script:
 
-    python your_script_name.py
+    python TgHoovr.py
 
     Enter the following when prompted:
         Your API ID.
@@ -46,17 +43,13 @@ Step 4: Configure the Script
 
 Step 5: Download Telegram Videos
 
-    Run the script again:
-
-    python your_script_name.py
-
     Choose Option 1 to start downloading videos.
 
     Enter the Telegram channel username, URL, or ID.
     Example formats:
-        @channelusername
+        channelusername
         https://t.me/channelusername
-        1234567890 (Channel ID)
+        1234567890 (Channel ID)*
 
     The script will:
         Fetch videos from the channel.
