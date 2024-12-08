@@ -49,7 +49,6 @@ Avoid Duplicate Downloads: The script keeps track of downloaded videos in a down
 View Logs: Errors and activity logs are stored in downloader.log for troubleshooting.
 
 Optional Customizations
-
 Change Max Downloads: Edit the MAX_SIMULTANEOUS_DOWNLOADS variable in the script to adjust the number of simultaneous downloads.
 
 Reset Credentials: Delete the config.json file and re-run the script to re-enter your API ID and API Hash.
