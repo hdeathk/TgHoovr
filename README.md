@@ -22,7 +22,10 @@ Go to the Telegram API Tools page:
 
 Log in Enter your phone number and the verification code sent to your Telegram app.
 
-Create a New Application Go to the "API Development Tools" section. Fill in the required details (e.g., app name, description). Save the API ID and API Hash generated for your application.
+Create a New Application:
+-Go to the "API Development Tools" section.
+-Fill in the required details (e.g., app name, description).
+-Save the API ID and API Hash generated for your application.
 
 **Step 4: Configure the Script**
 Run the script:
