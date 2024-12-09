@@ -1,13 +1,12 @@
-🎥 Telegram Video Downloader Script
+#### **🎥 Telegram Video Downloader Script**
 
-This script automates the process of downloading videos from Telegram channels. By providing your Telegram API credentials and the desired channel's username, URL, or ID, the script fetches all available videos and saves them to a local folder.
-✨ Features  
-🛡️ Automatic duplicate detection to avoid re-downloading videos.  
-⚡ Customizable simultaneous downloads for optimized performance.  
-🔒 Simple configuration with saved API credentials for ease of use.  
-📊 Progress tracking with a user-friendly interface.  
+This script automates the process of downloading videos from Telegram channels. By providing your Telegram API credentials and the desired channel's username, URL, or ID, the script fetches all available videos and saves them to a local folder.  
+    ✨ Features  
+    🛡️ Automatic duplicate detection to avoid re-downloading videos.  
+    ⚡ Customizable simultaneous downloads for optimized performance.  
+    🔒 Simple configuration with saved API credentials for ease of use.  
+    📊 Progress tracking with a user-friendly interface.  
 
-Ideal for managing and archiving videos efficiently!
 📋 Step-by-Step Guide
 
 
@@ -23,7 +22,7 @@ Navigate to the project folder:
 
 
 
-Step 2: Install Required Libraries
+#### **Step 2: Install Required Libraries**
 
 Install all necessary libraries using the requirements.txt file:
 
@@ -31,7 +30,7 @@ Install all necessary libraries using the requirements.txt file:
 
 
 
-Step 3: Create a Telegram API Account
+#### **Step 3: Create a Telegram API Account**
 
 Visit the Telegram API Tools page.
                 
@@ -42,7 +41,7 @@ Visit the Telegram API Tools page.
         Fill in details like App Name and Description.
         Save the API ID and API Hash for later use.
 
-Step 4: Configure the Script
+#### **Step 4: Configure the Script**
 
 Run the script for the first time:
 
@@ -55,7 +54,7 @@ Your API Hash
 
 (The script will save this information in a config.json file for future use.)
 
-Step 5: Download Telegram Videos
+#### **Step 5: Download Telegram Videos**
 
 Run the script and choose Option 1 from the menu.
 Enter the Telegram channel's username, URL, or ID in one of these formats:
@@ -63,12 +62,12 @@ Enter the Telegram channel's username, URL, or ID in one of these formats:
         https://t.me/channelusername
         1234567890 (Channel ID)
 
-📥 What happens next:
+**📥 What happens next:**
 
 The script fetches videos from the specified channel.
 All videos are downloaded to a folder named after the channel.
 
-🔧 Managing Downloads
+**🔧 Managing Downloads**
 
 Avoid Duplicate Downloads:
 The script tracks downloaded videos in a downloaded_ids.txt file.
@@ -76,7 +75,7 @@ The script tracks downloaded videos in a downloaded_ids.txt file.
 View Logs:
 Errors and activity logs are saved in downloader.log for easy troubleshooting.
 
-⚙️ Optional Customizations
+**⚙️ Optional Customizations**
 
 Change Maximum Downloads:
 Edit the MAX_SIMULTANEOUS_DOWNLOADS variable in the script to adjust the number of simultaneous downloads.
@@ -84,8 +83,6 @@ Edit the MAX_SIMULTANEOUS_DOWNLOADS variable in the script to adjust the number 
 Reset Credentials:
 Delete the config.json file and re-run the script to re-enter your API ID and API Hash.
 
-🚀 Ready to Go!
-
-Follow this guide to easily download Telegram videos. For questions or troubleshooting, refer to the logs or contact the repository owner.
+**🚀 Ready to Go!**
 
 🎉 Enjoy your seamless video management!
