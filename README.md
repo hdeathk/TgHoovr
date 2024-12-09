@@ -1,15 +1,18 @@
 #### **🎥 Telegram Video Downloader Script**
 
 This script automates the process of downloading videos from Telegram channels. By providing your Telegram API credentials and the desired channel's username, URL, or ID, the script fetches all available videos and saves them to a local folder.  
-    ✨ Features  
-    🛡️ Automatic duplicate detection to avoid re-downloading videos.  
-    ⚡ Customizable simultaneous downloads for optimized performance.  
-    🔒 Simple configuration with saved API credentials for ease of use.  
-    📊 Progress tracking with a user-friendly interface.  
+  
+&nbsp;&nbsp;&nbsp;&nbsp;✨ Features  
+&nbsp;&nbsp;&nbsp;&nbsp;🛡️ Automatic duplicate detection to avoid re-downloading videos.  
+&nbsp;&nbsp;&nbsp;&nbsp;⚡ Customizable simultaneous downloads for optimized performance.  
+&nbsp;&nbsp;&nbsp;&nbsp;🔒 Simple configuration with saved API credentials for ease of use.  
+&nbsp;&nbsp;&nbsp;&nbsp;📊 Progress tracking with a user-friendly interface.  
+<br>
+<br>
+<font size="20"> **📋 Step-by-Step Guide**</font>  
 
-📋 Step-by-Step Guide
-
-
+  
+  
 #### **Step 1: Download the Script**
 
 Clone the repository:
@@ -48,9 +51,8 @@ Run the script for the first time:
     python TgHoovr.py
 
 When prompted, enter:
-
-Your API ID
-Your API Hash
+Your API ID  
+Your API Hash  
 
 (The script will save this information in a config.json file for future use.)
 
@@ -63,12 +65,10 @@ Enter the Telegram channel's username, URL, or ID in one of these formats:
         1234567890 (Channel ID)
 
 **📥 What happens next:**
-
-The script fetches videos from the specified channel.
+The script fetches videos from the specified channel.  
 All videos are downloaded to a folder named after the channel.
 
 **🔧 Managing Downloads**
-
 Avoid Duplicate Downloads:
 The script tracks downloaded videos in a downloaded_ids.txt file.
 
