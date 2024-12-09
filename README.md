@@ -1,17 +1,17 @@
 🎥 Telegram Video Downloader Script
 
 This script automates the process of downloading videos from Telegram channels. By providing your Telegram API credentials and the desired channel's username, URL, or ID, the script fetches all available videos and saves them to a local folder.
-✨ Features
-    🛡️ Automatic duplicate detection to avoid re-downloading videos.
-    ⚡ Customizable simultaneous downloads for optimized performance.
-    🔒 Simple configuration with saved API credentials for ease of use.
-    📊 Progress tracking with a user-friendly interface.
+✨ Features  
+🛡️ Automatic duplicate detection to avoid re-downloading videos.  
+⚡ Customizable simultaneous downloads for optimized performance.  
+🔒 Simple configuration with saved API credentials for ease of use.  
+📊 Progress tracking with a user-friendly interface.  
 
 Ideal for managing and archiving videos efficiently!
 📋 Step-by-Step Guide
 
 
-Step 1: Download the Script
+#### **Step 1: Download the Script**
 
 Clone the repository:
 
