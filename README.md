@@ -61,10 +61,12 @@ Enter the Telegram channel's username, URL, or ID in one of these formats:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1234567890 (Channel ID)  
 <br>
 If you only have an invitation link to a group or channel:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Use the Telegram bot RawDataBot.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Use the Telegram bot RawDataBot. / https://t.me/Raw_Data_Bot  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Start the bot, select the channel, and obtain its ID.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The ID will usually start with -100. Remove the prefix -100 to get the usable ID.  
 <br>
+*The name of the channel may not always match its actual username, which is why the script might fail to find videos using the channel name.
+For best results, always use the Channel ID, as it guarantees accurate identification.*
 ### **📥 What happens next:**  
 The script fetches videos from the specified channel.  
 All videos are downloaded to a folder named after the channel.  
